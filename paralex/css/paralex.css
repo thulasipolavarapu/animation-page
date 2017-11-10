@@ -1,0 +1,35 @@
+div{
+    height:700px;
+    
+    margin:0px;
+    padding:0px;
+    
+    
+    
+}
+    
+
+/* .orange{
+    background-color: orange;
+} */
+
+.center{
+    width:500px;
+    margin:0 auto;
+    padding-top: 250px;
+    
+}
+h1{
+    
+    text-align: center;
+    margin:0px;
+    padding:0px 0px;
+    font-size: 30px
+    
+}
+p{
+    text-align: center;
+    margin:0px;
+    padding:0px;
+    
+}
